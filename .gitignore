@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+logs/
+config/*
+!config/.gitkeep
+recordings/automation_sequence_*.json

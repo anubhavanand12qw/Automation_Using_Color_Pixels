@@ -1,0 +1,2 @@
+"""Core automation package."""
+
